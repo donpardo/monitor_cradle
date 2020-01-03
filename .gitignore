@@ -1,0 +1,2 @@
+# no pesky Freecad backup files, please
+*.fcstd[0-9]
