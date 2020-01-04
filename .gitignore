@@ -1,2 +1,2 @@
 # no pesky Freecad backup files, please
-*.fcstd[0-9]
+*.[Ff][Cc][Ss][Tt][Dd][0-9]
